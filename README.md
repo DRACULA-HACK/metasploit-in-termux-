@@ -65,3 +65,15 @@ Or
 #
 bash metasploit.sh
 #
+
+# After installing the metasploit on your system
+
+#
+After installation complete execute:
+#
+Run the command
+#
+
+msfconsole
+
+#
